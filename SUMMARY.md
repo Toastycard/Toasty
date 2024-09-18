@@ -5,7 +5,6 @@
 ## Getting Started
 
 * [How the Toasty Choice Card works](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics
 

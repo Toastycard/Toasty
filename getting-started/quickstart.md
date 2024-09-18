@@ -8,10 +8,10 @@ description: >-
 
 <figure><img src="../.gitbook/assets/Custom_Gift_Card.png" alt=""><figcaption></figcaption></figure>
 
-The Toasty Choice Card allows recipients to **select their preferred brands from** **thousands of options in their local currency**. This flexibility ensures a more personalized reward experience and eliminates the guesswork involved with traditional gift cards.
+The [**Toasty Choice Card**](https://www.toastycard.com/marketing/product/choice-card) allows recipients to **select their preferred brands from** **thousands of options in their local currency**. This flexibility ensures a more personalized reward experience and eliminates the guesswork involved with traditional gift cards.
 
 {% hint style="info" %}
-Want to see the list of brands and countries supported? Head over to our [Brand Catalog](https://www.toastycard.com/marketing/catalog?utm\_source=blog\&utm\_medium=bloglink\&utm\_content=gitbook) to learn more.
+Want to see the list of brands and countries supported? Head over to our [Brand Catalog](https://www.toastycard.com/marketing/catalog) to learn more.
 {% endhint %}
 
 ## Toasty Choice Cards in 3 Easy Steps
