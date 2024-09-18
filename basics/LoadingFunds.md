@@ -16,14 +16,11 @@ Once your funds arrive, they will be credited to your account so you can start o
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-18 at 9.29.35 AM.png" alt=""><figcaption><p>Methods of distributing your invoice</p></figcaption></figure>
 
-{% hint style="info" %}
 You can save yourself a step by sending the invoice to your accounts payable team directly through the portal.&#x20;
-{% endhint %}
 
 ### Loading Funds Via Credit Card
 
 If you need to send out cards in a hurry, adding funds via credit card is a great option. Simply select Credit Card as your payment method and enter your card of choice.&#x20;
 
-{% hint style="info" %}
 There is a 3% surcharge applied to credit card transactions
-{% endhint %}
+
