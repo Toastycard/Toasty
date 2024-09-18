@@ -12,6 +12,4 @@ The Toasty Refund Option shortens the redemption window from 180 days to 30 days
 
 The Toasty Refund Option allows you to see which rewards have been redeemed or not, allowing you to send reminders to your recipients.
 
-{% hint style="info" %}
 Redemption Visibility is a feature that is unique to the [Toasty Refund Option](https://www.toastycard.com/marketing/product/refund-option)
-{% endhint %}
